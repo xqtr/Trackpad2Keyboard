@@ -1,0 +1,12 @@
+{
+    "ignore": 1,
+    "threshold": 10,
+    "lclick": "enter",
+    "rclick": "esc",
+    "mclick": "tab",
+    "up": "up",
+    "down": "down",
+    "left": "left",
+    "right": "right",
+    "dev": "/dev/input/event2"
+}
